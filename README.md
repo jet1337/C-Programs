@@ -1,14 +1,14 @@
 # C-Programs
 C Programs from COP 3515
 
-# inner.c
+<b>inner.c: </b>
 Perform inner product and reverse inner product on two 1x10 matrices
 
-# phone.c
+<b>phone.c: </b>
 Translate a phone number with letters into a dial-able number
 
-# ATM.c
+<b>ATM.c: </b>
 Takes a user's input cash amount and breaks it down into specific bills
 
-# tile.c
+<b>tile.c: </b>
 Calculates the total balance after accruing interest when the balance cap is reached
